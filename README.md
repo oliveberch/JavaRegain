@@ -1,2 +1,2 @@
 # JavaRegain
-Coding in Java for practice
+Problems in Java for practice.
