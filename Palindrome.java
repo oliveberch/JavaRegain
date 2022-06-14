@@ -14,5 +14,6 @@ public class Palindrome {
         } else {
             System.out.println("No");
         }
+        sc.close();
     }
 }
